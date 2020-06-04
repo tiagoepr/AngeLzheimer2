@@ -58,6 +58,8 @@
     <string name="tarefaapagada">Tarefa Apagada</string>
     <string name="fechar">Fechar</string>
     <string name="editTask">Editar Tarefa</string>
+    <string name="recolherblocos">Procurando os Blocos de Notas</string>
+    <string name="espere">Por favor Espere</string>
 
 
 </resources>

@@ -64,8 +64,8 @@ public class ActivityMemo extends AppCompatActivity {
         curUser = mAuth.getCurrentUser();
         mProgress = new ProgressDialog(this);
 
-        mProgress.setTitle("Procurando os Blocos de Notas");
-        mProgress.setMessage("Por favor Espere");
+        mProgress.setTitle(getString(R.string.recolherblocos));
+        mProgress.setMessage(getString(R.string.espere));
         mProgress.setCanceledOnTouchOutside(false);
         mProgress.show();
 

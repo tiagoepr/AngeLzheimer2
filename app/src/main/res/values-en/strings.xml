@@ -50,4 +50,7 @@
     <string name="tarefaprconcluir">" Task unfinished"</string>
     <string name="tarefaapagada">Task deleted</string>
     <string name="fechar">Close</string>
+    <string name="editTask">Edit Task</string>
+    <string name="recolherblocos">Searching for Notes</string>
+    <string name="espere">Please wait</string>
 </resources>
