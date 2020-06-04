@@ -11,7 +11,7 @@ Mais informações e Documentação disponíveis no PDF <br>
 
 Repositório Google Drive: https://drive.google.com/drive/folders/1BghYkNe_fWcpkQOmuQjHrfGANQyRNwgy?usp=sharing
 
-![GitHub Logo](/Imagens/app.png=250x250)
+![GitHub Logo](/Imagens/app.png =250x250)
 
 # Screenshots
 ![GitHub Logo](/Imagens/1.png)  ![GitHub Logo](/Imagens/2.png)  ![GitHub Logo](/Imagens/3.png)
