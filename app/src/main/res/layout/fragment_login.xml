@@ -86,7 +86,7 @@
             android:layout_marginBottom="50dp"
             android:fontFamily="@font/roboto_regular"
             android:text="@string/tag"
-            android:textSize="17sp" />
+            android:textSize="14sp" />
 
         <TextView
             android:id="@+id/tv_title"

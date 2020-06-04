@@ -21,6 +21,24 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent">
 
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_gravity="center"
+                android:src="@drawable/angelzheimerround" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:fontFamily="@font/indigo_daisy"
+                android:gravity="bottom|center"
+                android:text="@string/app_name"
+                android:textAlignment="center"
+                android:textSize="50dp" />
+
             <FrameLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
@@ -44,24 +62,6 @@
                     android:keepScreenOn="false"
                     android:progressTint="#258793" />
             </FrameLayout>
-
-            <ImageView
-                android:id="@+id/imageView"
-                android:layout_width="250dp"
-                android:layout_height="250dp"
-                android:layout_gravity="center"
-                android:src="@drawable/angelzheimerround" />
-
-            <TextView
-                android:id="@+id/textView"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_margin="10dp"
-                android:fontFamily="@font/indigo_daisy"
-                android:gravity="bottom|center"
-                android:text="@string/app_name"
-                android:textAlignment="center"
-                android:textSize="50dp" />
 
             <!--            <LinearLayout-->
             <!--                android:id="@+id/bt1"-->
