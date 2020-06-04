@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">AngeLzheimer2</string>
+
+    <!-- Login -->
+    <string name="aguardeligacao">Aguarde Ligação ao Servidor</string>
+    <string name="tag">Faça Parte da Família AngeLzheimer\nAutentifique-se como Paciente ou Cuidador</string>
+    <string name="tagregister">Registo como Cuidador\nRegiste o Cuidador e o Paciente</string>
+    <string name="utilizador">Utilizador</string>
+    <string name="swipe_left_for_register">Deslizar Para a Esquerda para Registar</string>
+    <string name="register">Registar</string>
+    <string name="utilizadorcuidador">Cuidador: Email</string>
+    <string name="passwordcuidador">Cuidador: Password</string>
+    <string name="utilizadorpaciente">Paciente: Email</string>
+    <string name="passwordpaciente">Paciente: Password</string>
+    <string name="swipe_right_for_login">Deslizar Para a Direita para Login</string>
+    <string name="InfoPessoal">Informação\nPessoal</string>
+
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ChamadaEmergencia">Chamada de\nEmergência</string>
+    <string name="ToDo">A Fazer</string>
+    <string name="Memos">Lembretes</string>
+    <string name="Local">Localização</string>
+    <string name="Mensagens">Conversa</string>
+    <string name="Address">Morada</string>
+    <string name="Contact">Contacto</string>
+    <string name="name">Nome</string>
+    <string name="InfoPessoalLinha">Informação Pessoal</string>
+    <string name="ContactoEmergencia">Contacto de Emergência</string>
+    <string name="DataUpdate">Atualizar Dados</string>
+    <string name="changePhoto">Alterar Fotografia</string>
+    <string name="changecamera">Alterar pela Câmara</string>
+    <string name="changeGallery">Alterar pela Galeria</string>
+    <string name="InfoPaciente">Informação\nPaciente</string>
+    <string name="InfoPaciente2">Informação Pessoal Paciente</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="MinhaLocalizacao">A Minha Localização</string>
+    <string name="UltimaLocalizacao">Última Localização Conhecida</string>
+    <string name="Titulo">Título</string>
+    <string name="nota">Nota</string>
+    <string name="NovaNota">Nova Nota</string>
+    <string name="cuidador">Cuidador</string>
+    <string name="paciente">Paciente</string>
+    <string name="add">Adicionar Tarefa</string>
+    <string name="save">Guardar</string>
+    <string name="Tarefa">Tarefa</string>
+    <string name="duedate">Data Limite</string>
+    <string name="descricao">Descrição</string>
+    <string name="date">Data</string>
+    <string name="hour">Hora</string>
+    <string name="tarefaadicionada">Tarefa Adicionada</string>
+    <string name="algocorreumau">Algo Correu Mal</string>
+    <string name="tarefaconcluida">Tarefa Concluida</string>
+    <string name="tarefaprconcluir">Tarefa Por Concluir</string>
+    <string name="tarefaapagada">Tarefa Apagada</string>
+    <string name="fechar">Fechar</string>
+    <string name="editTask">Editar Tarefa</string>
+
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "63440828849",
+    "firebase_url": "https://angelzheimer2.firebaseio.com",
+    "project_id": "angelzheimer2",
+    "storage_bucket": "angelzheimer2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63440828849:android:14f7ce80fb6ca97dd1e590",
+        "android_client_info": {
+          "package_name": "com.example.angelzheimer2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63440828849-jnbt1j6afnbnij7qabqgsljsq92etcb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXj_bzhovkt9BWMhxsvEck5h87PFKbh8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63440828849-jnbt1j6afnbnij7qabqgsljsq92etcb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
