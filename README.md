@@ -12,4 +12,4 @@ Mais informações e Documentação disponíveis no PDF <br>
 Repositório Google Drive: https://drive.google.com/drive/folders/1BghYkNe_fWcpkQOmuQjHrfGANQyRNwgy?usp=sharing
 
 # Screenshots
-![alt text](https://github.com/tiagoepr/AngeLzheimer2/blob/Imagens/1.png?raw=true)
+![alt text](https://github.com/tiagoepr/AngeLzheimer2/Imagens/1.png?raw=true)
