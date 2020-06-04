@@ -12,4 +12,4 @@ Mais informações e Documentação disponíveis no PDF <br>
 Repositório Google Drive: https://drive.google.com/drive/folders/1BghYkNe_fWcpkQOmuQjHrfGANQyRNwgy?usp=sharing
 
 # Screenshots
-![GitHub Logo](/Imagens/1.png)
+![GitHub Logo](/Imagens/1.png) | ![GitHub Logo](/Imagens/2.png)
